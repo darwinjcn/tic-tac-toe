@@ -1,9 +1,10 @@
 # 🎮 Tic-Tac-Toe (Tres en Raya) en Python
 
-[Python](https://www.python.org/)  
-[Status]()  
-[License]()  
-[GitHub Stars]()
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Status](https://img.shields.io/badge/Status-Completed-success)]()
+[![License](https://img.shields.io/badge/License-MIT-green)]()
+[![GitHub Stars](https://img.shields.io/github/stars/darwinjcn/tic-tac-toe?style=social)]()
+
 
 Un clásico juego de **Tres en Raya (Tic-Tac-Toe)** jugable directamente desde la terminal. Juega contra la máquina, la cual elige sus movimientos de forma aleatoria. ¡Intenta ganarle o terminar en empate!
 
