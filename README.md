@@ -1,9 +1,9 @@
 # 🎮 Tic-Tac-Toe (Tres en Raya) en Python
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Status](https://img.shields.io/badge/Status-Completed-2ea043?style=flat-square)](https://www.kaggle.com/code/rcurioso/tic-tac-toe-3-en-raya)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)]()
-[![GitHub Stars](https://img.shields.io/github/stars/darwinjcn/tic-tac-toe?style=flat-square&logo=github)](https://www.kaggle.com/code/rcurioso/tic-tac-toe-3-en-raya)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Status](https://img.shields.io/badge/Status-Completed-2ea043?style=for-the-badge)](https://www.kaggle.com/code/rcurioso/tic-tac-toe-3-en-raya)
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)]()
+[![GitHub Stars](https://img.shields.io/github/stars/darwinjcn/tic-tac-toe?style=for-the-badge&logo=github)](https://www.kaggle.com/code/rcurioso/tic-tac-toe-3-en-raya)
 
 Un clásico juego de **Tres en Raya (Tic-Tac-Toe)** jugable directamente desde la terminal. Juega contra la máquina, la cual elige sus movimientos de forma aleatoria. ¡Intenta ganarle o terminar en empate!
 
